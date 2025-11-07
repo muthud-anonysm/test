@@ -1,0 +1,19 @@
+# Example targets for testing CMS Recon tool
+# These are public sites for testing purposes only
+# Replace with your authorized targets
+
+# WordPress Sites (examples)
+wordpress.org
+wordpress.com
+
+# Joomla Sites (examples)  
+joomla.org
+joomla.com
+
+# Drupal Sites (examples)
+drupal.org
+drupal.com
+
+# General sites
+example.com
+github.com
