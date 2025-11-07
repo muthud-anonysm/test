@@ -1,0 +1,2 @@
+{"target":"https://crowdchem.de","notes":"fetch error: Get \"https://crowdchem.de/index.php/en/\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"target":"https://crowdchem.ai","notes":"fetch error: Get \"https://crowdchem.ai/index.php/en/\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
